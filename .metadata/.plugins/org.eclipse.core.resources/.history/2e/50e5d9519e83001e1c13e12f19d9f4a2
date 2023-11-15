@@ -1,0 +1,5 @@
+package customlogin.model;
+
+public class User {
+
+}

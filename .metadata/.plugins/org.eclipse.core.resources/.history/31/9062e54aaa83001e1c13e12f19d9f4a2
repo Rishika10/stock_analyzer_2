@@ -1,0 +1,5 @@
+package customlogin.repositories;
+
+public interface UserRepository {
+
+}
